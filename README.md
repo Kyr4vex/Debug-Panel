@@ -5,7 +5,7 @@
 A compact in-game debug panel for Roblox with live game stats, a player list and detailed mouse data, built to be forked and edited.
 
 <div align="center">
-  <video src="assets/showcase.mp4" width="640" height="480" controls muted loop></video>
+  <video src="https://github.com/Kyr4vex/Debug-Panel/raw/main/assets/showcase.mp4" width="640" controls muted loop></video>
 </div>
 
 </div>
